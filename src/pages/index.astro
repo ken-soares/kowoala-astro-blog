@@ -1,0 +1,22 @@
+---
+const pages = await Astro.glob("./articles/*.md")
+---
+
+
+
+<html lang="en">
+<head>
+</head>
+    <body>
+
+            <h1 class="logo"><a href="/"><span>@</span>Kowoala</a>'s blog</h1>
+            <ul class="article-list">
+                {
+                    pages.map((page) => (
+                        <li><a href={page.url}>{page.frontmatter.title}</a> <i>{page.frontmatter.date}</i></li>
+                    ))
+                }
+            </ul>
+    </body>
+</html>
+
