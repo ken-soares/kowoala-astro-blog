@@ -8,6 +8,7 @@ html {
   justify-content: center;
   padding-left: 20%;
   padding-right: 20%;
+  font-size: 0.8rem;
 }
 
 div {
@@ -39,4 +40,5 @@ blockquote {
 .logo {
   font-style: italic;
   font-weight: 700;
+  font-size: 2.5rem;
 }
