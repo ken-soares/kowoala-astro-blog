@@ -4,6 +4,7 @@ date: 05/06/2023
 banner: "https://cdn-media-1.freecodecamp.org/images/0*ngXgBNNdx6iiWP8q.png"
 layout: "../../layouts/Layout.astro"
 ---
+
 > "Morbi egestas felis turpis. Maecenas eu risus rutrum risus semper interdum. Ut pretium augue ac enim aliquet pretium. Sed pretium sem magna, et auctor ex posuere eu. Donec sit amet tortor ante. Nulla maximus rhoncus nunc eu fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin sit amet dapibus nisl. In sit amet nisl id diam placerat aliquet." - un grand homme
 
 Nunc suscipit placerat ipsum, in tincidunt eros dictum eu. Integer euismod placerat libero, vel suscipit ligula pharetra sit amet. Nunc consequat, mi sed tincidunt tempor, libero nulla sodales erat, sit amet porttitor nibh neque vitae orci. Ut venenatis eleifend urna in egestas. Sed dui dui, porttitor quis erat sed, pharetra maximus sapien. Sed eget lacus massa. Donec ac felis ut eros volutpat tempus. Maecenas efficitur tempor placerat. Donec quis massa semper, euismod nulla id, consequat nibh. Suspendisse accumsan iaculis egestas.
